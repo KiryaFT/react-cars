@@ -1,10 +1,13 @@
 import React from 'react';
+import { Theme, presetGpnDefault } from '@consta/uikit/Theme'
+import { CarsList } from './components/CarsList';
 
-function App() {
+const App: React.FC = () => {
   return (
-    <div>
+    <Theme preset={presetGpnDefault}>
       <h1>React Cars</h1>
-    </div>
+      <CarsList />
+    </Theme>
   );
 }
 
