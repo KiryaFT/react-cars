@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-cars/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-cars/static/js/main.24922c73.chunk.js",
+    "main.js.map": "/react-cars/static/js/main.24922c73.chunk.js.map",
+    "runtime-main.js": "/react-cars/static/js/runtime-main.dcf5dab9.js",
+    "runtime-main.js.map": "/react-cars/static/js/runtime-main.dcf5dab9.js.map",
+    "static/css/2.60e623ec.chunk.css": "/react-cars/static/css/2.60e623ec.chunk.css",
+    "static/js/2.adda782f.chunk.js": "/react-cars/static/js/2.adda782f.chunk.js",
+    "static/js/2.adda782f.chunk.js.map": "/react-cars/static/js/2.adda782f.chunk.js.map",
+    "index.html": "/react-cars/index.html",
+    "static/css/2.60e623ec.chunk.css.map": "/react-cars/static/css/2.60e623ec.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-cars/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.adda782f.chunk.js.LICENSE.txt": "/react-cars/static/js/2.adda782f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcf5dab9.js",
+    "static/css/2.60e623ec.chunk.css",
+    "static/js/2.adda782f.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.24922c73.chunk.js"
+  ]
+}
